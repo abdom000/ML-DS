@@ -1,6 +1,6 @@
 # ML-DS Projects
 
-A curated collection of machine learning and data science projects covering validation strategies, supervised learning, classification, tree-based models, and data analytics.
+A curated collection of machine learning and data science projects covering validation strategies, supervised learning, classification, tree-based models, data analytics, and data science foundations.
 
 ## Projects
 
@@ -10,5 +10,13 @@ A curated collection of machine learning and data science projects covering vali
 - [Decision Trees and Ensemble Models](./decision-trees)
 - [MovieLens Analytics](./movielens-analytics)
 
+## Foundations
+
+- [Introduction to Machine Learning — Regression](./foundations/ml-introduction)
+- [Pandas Practice — Data Wrangling and Optimization](./foundations/pandas-practice)
+- [SQL + Pandas — Querying and Analysis with SQLite](./foundations/sql-pandas)
+- [Data Visualization — pandas, Matplotlib, Seaborn, Plotly](./foundations/pandas-sql-visualization)
+
 ## Stack
-Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, Jupyter Notebook
+
+Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, matplotlib, seaborn, plotly, SQLite, Jupyter Notebook
