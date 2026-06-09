@@ -5,7 +5,7 @@ A curated collection of machine learning and data science projects covering vali
 ## Projects
 
 - [Model Validation Strategies](./validation)
-- [Binary Classification — Car Auction Bad Buy Prediction](./classification-problems)
+- [Binary Classification - Car Auction Bad Buy Prediction](./classification-problems)
 - [Linear Regression and Regularization](./supervised-learning)
 - [Decision Trees and Ensemble Models](./decision-trees)
 - [MovieLens Analytics](./movielens-analytics)
@@ -13,10 +13,10 @@ A curated collection of machine learning and data science projects covering vali
 
 ## Foundations
 
-- [Introduction to Machine Learning — Regression](./foundations/ml-introduction)
-- [Pandas Practice — Data Wrangling and Optimization](./foundations/pandas-practice)
-- [SQL + Pandas — Querying and Analysis with SQLite](./foundations/sql-pandas)
-- [Data Visualization — pandas, Matplotlib, Seaborn, Plotly](./foundations/pandas-sql-visualization)
+- [Introduction to Machine Learning - Regression](./foundations/ml-introduction)
+- [Pandas Practice - Data Wrangling and Optimization](./foundations/pandas-practice)
+- [SQL + Pandas - Querying and Analysis with SQLite](./foundations/sql-pandas)
+- [Data Visualization - pandas, Matplotlib, Seaborn, Plotly](./foundations/pandas-sql-visualization)
 
 ## Stack
 
