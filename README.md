@@ -1,6 +1,6 @@
 # ML-DS Projects
 
-A curated collection of machine learning and data science projects covering validation strategies, supervised learning, classification, tree-based models, data analytics, and data science foundations.
+A curated collection of machine learning and data science projects covering validation strategies, supervised learning, classification, tree-based models, sensor-based activity recognition, data analytics, and data science foundations
 
 ## Projects
 
