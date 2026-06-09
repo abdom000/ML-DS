@@ -9,7 +9,7 @@ A curated collection of machine learning and data science projects covering vali
 - [Linear Regression and Regularization](./supervised-learning)
 - [Decision Trees and Ensemble Models](./decision-trees)
 - [MovieLens Analytics](./movielens-analytics)
-- - [Human Activity Recognition from Sensor Data](https://drive.google.com/drive/folders/1omWjCq0OKJ1jrGsP5Gem70TQ6pVzuGHf?usp=share_link)
+- [Human Activity Recognition from Sensor Data](https://drive.google.com/drive/folders/1omWjCq0OKJ1jrGsP5Gem70TQ6pVzuGHf?usp=share_link)
 
 ## Foundations
 
