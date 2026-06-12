@@ -1,6 +1,6 @@
 # ML-DS Projects
 
-A curated collection of machine learning and data science projects covering validation strategies, supervised learning, classification, tree-based models, sensor-based activity recognition, data analytics, and data science foundations
+A curated collection of machine learning and data science projects
 
 ## Projects
 
@@ -10,6 +10,7 @@ A curated collection of machine learning and data science projects covering vali
 - [Decision Trees and Ensemble Models](./decision-trees)
 - [MovieLens Analytics](./movielens-analytics)
 - [Human Activity Recognition from Sensor Data](https://drive.google.com/drive/folders/1omWjCq0OKJ1jrGsP5Gem70TQ6pVzuGHf?usp=share_link)
+- [LLM Human Preference Classification - Kaggle Notebook](https://www.kaggle.com/code/ab00dm0/llm-classification-finetuning)
 
 ## Foundations
 
@@ -20,4 +21,4 @@ A curated collection of machine learning and data science projects covering vali
 
 ## Stack
 
-Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, matplotlib, seaborn, plotly, SQLite, Jupyter Notebook
+Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, Optuna, TF-IDF, Logistic Regression, NLP, LLM Preference Modeling, matplotlib, seaborn, plotly, SQLite, Jupyter Notebook, Google Colab, Kaggle Notebooks
